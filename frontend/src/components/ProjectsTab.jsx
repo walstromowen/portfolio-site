@@ -23,8 +23,8 @@ export function ProjectsTab(props){
             },
             {
                 title: 'Shackle Breaker',
-                link: 'https://walstromowen.github.io/shackle-breaker/src/index.html',
-                description: 'An RPG adventure game featuring an advanced battle mechanic using asynchronous javascript.',
+                link: 'https://shackle-breaker-frontend.onrender.com',
+                description: 'An RPG adventure game. Register to play now!',
                 tumbnailURL: shackleBreakerImage,
             },
         ]
